@@ -5,4 +5,4 @@ To play the DRM-protected video in ExoPlayer, you will require the below URLs fr
 2. Widevine license URL
 3. JWT token (A way of authorizing users who make a decryption key request)
 
-Hence update `WIDEVINE_URL`, `URL` & `jwtToken` fields in `PlayerActivity` with required data.
+Update `WIDEVINE_URL`, `URL` & `jwtToken` fields in `PlayerActivity` with required data.
